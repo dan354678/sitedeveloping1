@@ -12,7 +12,7 @@
                 <li><a href="#services">Services</a></li>
                 <li><a href="#about">About Us</a></li>
                 <li><a href="#contact">Contact</a></li>
-              <li><a href="#Discord">Contact</a></li>
+              <li><a href="#Discord">Discord</a></li>
               
                 <!-- Add more navigation links as needed -->
             </ul>

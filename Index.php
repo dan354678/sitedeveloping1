@@ -48,5 +48,5 @@
         <p>&copy; <?php echo date("Y"); ?> Securemimesis.link  All rights reserved.</p>
     </footer>
 </body>
-</html>
+</html> <!-- hi
 

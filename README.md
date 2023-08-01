@@ -1,1 +1,3 @@
-# sitedeveloping1
+# SecureMimesis
+
+&copy;

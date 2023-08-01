@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- ======================================================
+   Web Content Produced by Tom Gray / TG Productions
+   Contact: tomg@courvix.com | Discord: tom_robinson
+   All rights reserved. Do not copy or distribute without permission.
+   Unauthorized use may be subject to DMCA takedown.
+======================================================= -->
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <script src="profiles.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="container">
+    <!-- User Profile Picture -->
+    <div class="login-form">
+      <h1>Login</h1>
+      <center>
+      <div class="avatar" id="user-avatar"></div>
+    </center>
+      <div class="input-group">
+        <i class="fas fa-user"></i>
+        <input type="text" id="username" placeholder="Username" required>
+      </div>
+      <div class="input-group">
+        <i class="fas fa-lock"></i>
+        <input type="password" id="password" placeholder="Password" required>
+      </div>
+      <button class="login-btn" onclick="login()">Login</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
